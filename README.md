@@ -6,6 +6,14 @@
 * Desenvolvi o projeto utilizando as melhores práticas de programação, tais como reutilização de código, responsividade, semântica entre outros.
 
 
+
+##  Como executar: 
+
+1- Baixar os arquivos
+
+2- Abrir index.html com um servidor local(Live Server) para o JavaScript poder importar o arquivo com o JSON
+
+
 ## ⚙️ Funcionalidades: 
 
 - [x] Filtro de produtos por preço.
